@@ -27,11 +27,13 @@ Project mjorly built from
 HTML, TAILWIND
 
 ## Demo | Netlify
+https://shopifyinclone.netlify.app/
 
 
 
 ## Screenshots
-
+![shopify1](https://user-images.githubusercontent.com/92782806/185451410-ab80bbec-c511-43aa-80d2-cb861fc398f3.png)
+![shopify2](https://user-images.githubusercontent.com/92782806/185451421-b5054e8c-8f5a-416f-91a0-48f546cc3e8b.png)
 
 
 
